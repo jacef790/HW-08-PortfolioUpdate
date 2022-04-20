@@ -8,3 +8,5 @@ Header with bg img and Nav links added
 Profile img added
 
 about me section added, not complete
+
+my portfolio section added, with links working to project and homework
