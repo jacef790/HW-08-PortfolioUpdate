@@ -20,3 +20,7 @@ more styling updates, added about me paragraph, linked resume to linked in
 google fonts added
 
 Removed unused commented out code, added comments 
+
+Link to github page: https://jacef790.github.io/HW-08-PortfolioUpdate/
+
+![portfolio page gif](./assets/img/Portfolio%20Page.gif)
