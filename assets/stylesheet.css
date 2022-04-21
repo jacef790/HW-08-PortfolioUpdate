@@ -57,8 +57,19 @@ h1{
     padding-top: 2rem;
 }
 
+.skills{
+    padding-top: 1rem;
+    font-size: 2rem;
+}
 
+#skill{
+    padding-top: 3rem;
+}
 
+a:hover{
+    transform: scale(1.05);
+    opacity: .9;
+}
 
 
 
