@@ -10,3 +10,5 @@ Profile img added
 about me section added, not complete
 
 my portfolio section added, with links working to project and homework
+
+contact section with font awsome icons that link to github, linkedin, and open email added

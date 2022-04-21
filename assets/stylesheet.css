@@ -18,7 +18,13 @@ h1{
     background-color: rgba(0,0,0,.3 );
 }
 
+.contact-me{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 2rem;
 
+}
 
 @media (max-width: 768px) {
     .head{
