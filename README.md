@@ -14,3 +14,5 @@ my portfolio section added, with links working to project and homework
 contact section with font awsome icons that link to github, linkedin, and open email added
 
 styling update to head, removed profile photo from head and added to about me, added skills list to about me
+
+more styling updates, added about me paragraph, linked resume to linked in
