@@ -18,3 +18,5 @@ styling update to head, removed profile photo from head and added to about me, a
 more styling updates, added about me paragraph, linked resume to linked in
 
 google fonts added
+
+Removed unused commented out code, added comments 

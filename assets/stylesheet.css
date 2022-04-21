@@ -2,6 +2,7 @@
     font-family: 'Raleway', sans-serif;
 }
 
+/* Header */
 .head{
     background-size: cover;
     min-height: 60vh;
@@ -15,10 +16,7 @@
     
 }
 
-.headline{
-    color: rgba(242, 245, 55, 1)
-    font-weight: 2000;
-}
+/* Green Bar */
 
 .vl{
     border-left: 10px solid rgba(9, 225, 52, 1);
@@ -34,7 +32,7 @@ h1{
     text-decoration: none;
 }
 
-
+/* Header img overlay */
 .color-overlay{
     position: absolute;
     width: 100%;
@@ -42,14 +40,18 @@ h1{
     background-color: rgba(0,0,0,.3 );
 }
 
+
+/* About Me */
 .about-me{
     padding-top: 2rem;
 }
 
+/* Portfolio */
 .portfolio{
     padding-top: 2rem;
 }
 
+/* Contact */
 .contact-me{
     display: flex;
     flex-wrap: wrap;
@@ -78,7 +80,7 @@ a:hover{
         min-height: 30vh;
     }
     h1{
-        font-size: 2rem;
+        font-size: 1rem;
         
     }
 }
