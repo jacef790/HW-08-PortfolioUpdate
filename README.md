@@ -16,3 +16,5 @@ contact section with font awsome icons that link to github, linkedin, and open e
 styling update to head, removed profile photo from head and added to about me, added skills list to about me
 
 more styling updates, added about me paragraph, linked resume to linked in
+
+google fonts added
